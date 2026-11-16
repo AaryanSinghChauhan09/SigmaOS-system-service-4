@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-system-service-4"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS system-service-4 component"
+
+[lib]
+name = "system_service_4"
+path = "src/lib.rs"
